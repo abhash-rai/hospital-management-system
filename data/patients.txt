@@ -1,0 +1,22 @@
+first_name, surname, age, mobile, postcode, symptoms
+Sara, Smith, 20, 07012345678, B1 234, Fever+Fatigue+vomiting+Muscle weakness
+Mike, Jones, 37, 07555551234, L2 2AB, Headache+Cough+Dizziness+Stomach pain
+Daivd, Smith, 15, 07123456789, C1 ABC, Headache+Dizziness+Muscle weakness+Stomach pain
+Nayan, Subedi, 22, 07189456789, D2 3BC, Fatigue+Cough+vomiting+Constipation
+Abhash, Rai, 45, 07123454189, I4 9PP, Headache+vomiting+Constipation+Stomach pain
+Aditi, Subedi, 18, 0564383282, J8 TT6, Fatigue+Diarrhea+Muscle weakness+Sore throat
+Adita, Rai, 19, 8465335415, K5 6YY, Headache+Diarrhea+Dizziness+Muscle weakness
+John, Doe, 25, 07555551234, B2 123, Headache+Fatigue+Stomach pain+Chest pain
+Jane, Doe, 33, 07987654321, C3 321, Cough+Fatigue+Vomiting+Dizziness
+Sarah, Johnson, 29, 07098765432, D4 432, Fatigue+Cough+Nausea+Muscle weakness
+William, Smith, 42, 07123456789, E5 543, Headache+Chest pain+Shortness of breath+Dizziness
+Michael, Brown, 33, 07876543210, F6 654, Fatigue+Cough+Chest pain+Shortness of breath
+Jessica, Davis, 28, 07555555678, G7 765, Nausea+Vomiting+Stomach pain+Diarrhea
+Christopher, Smith, 35, 07088888888, H8 876, Fatigue+Chest pain+Stomach pain+Shortness of breath
+Amy, Johnson, 30, 07777777777, I9 987, Headache+Fatigue+Nausea+Vomiting
+Robert, Doe, 27, 07555555555, J1 111, Headache+Chest pain+Muscle weakness+Dizziness
+Christine, Smith, 31, 07987651234, K2 222, Fatigue+Chest pain+Stomach pain+Diarrhea
+Steven, Johnson, 25, 07123456789, L3 333, Headache+Chest pain+Stomach pain+Diarrhea
+Karen, Davis, 32, 07876543210, M4 444, Fatigue+Cough+Nausea+Vomiting
+Julia, Smith, 26, 07555555678, N5 555, Headache+Fatigue+Stomach pain+Chest pain
+Kevin, Johnson, 29, 07098765432, O6 666, Fatigue+Chest pain+Stomach pain+Shortness of breath

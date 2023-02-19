@@ -1,0 +1,10 @@
+first_name, surname, speciality
+John, Smith, Internal Med.
+Jone, Smith, Pediatrics
+Jone, Carlos, Cardiology
+James, Wilson, Dermatology
+Mary, Lewis, Oncology
+William, Anderson, Psychiatry
+Michael, Thompson, Dermatology
+Robert, Lee, Gastroenterology
+Christine, Wright, Oncology

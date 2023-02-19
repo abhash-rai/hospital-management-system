@@ -1,0 +1,2 @@
+username, password, address
+admin, 123, B1 1AB
